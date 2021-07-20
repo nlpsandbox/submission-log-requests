@@ -1,8 +1,6 @@
 [![nlpsandbox.io](https://nlpsandbox.github.io/nlpsandbox-themes/banner/Banner@3x.png)](https://nlpsandbox.io)
 
-# Support
-
-Where NLP Sandbox users can request submission logs, share ideas and report issues.
+# NLP Sandbox Support
 
 1. Explore the [existing tickets] to check if your issue has been previously reported.
 2. Create a [new ticket] to request submission logs, share ideas and report issues. 
