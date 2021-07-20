@@ -1,6 +1,6 @@
 [![nlpsandbox.io](https://nlpsandbox.github.io/nlpsandbox-themes/banner/Banner@3x.png)](https://nlpsandbox.io)
 
-# NLP Sandbox Support
+# Support
 
 Where NLP Sandbox users can request submission logs, share ideas and report issues.
 
